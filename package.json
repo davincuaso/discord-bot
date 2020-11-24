@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot made by Davin Cuaso",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davin Cuaso",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.0",
+    "imageapi.js": "^1.1.1"
+  }
+}
